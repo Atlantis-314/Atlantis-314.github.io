@@ -28,8 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
--[On the decomposition of functions with vanishing mean oscillation]
+- On the decomposition of functions with vanishing mean oscillation
 {https://arxiv.org/pdf/2309.06155}
+
 Fei Tao,**Yaosong Yang**
 
 
